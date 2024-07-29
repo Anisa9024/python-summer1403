@@ -1,0 +1,7 @@
+s=eval(input("sorat?"))
+if s<90:
+    print("ticket no!")
+elif 91<s<110:
+    print("ticket small!")
+else:
+    print("ticket big")
